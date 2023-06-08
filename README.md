@@ -21,11 +21,11 @@ To run this project locally, run this command on your git bash:
 
 Linux and macOS:
 
-sudo git clone https://github.com/shreya6360/Responsive-personal_portfolio.git
+sudo git clone https://github.com/shreya6360/Water-Billing-System.git 
 
 Windows:
 
-git clone https://github.com/shreya6360/Responsive-personal_portfolio.git
+git clone https://github.com/shreya6360/Water-Billing-System.git 
 
 # License
 This project is free to use and does not contains any license.
